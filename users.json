@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Yehudi",
+        "last_name": "Chalcroft",
+        "email": "ychalcroft0@exblog.jp",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Barbabas",
+        "last_name": "Glencorse",
+        "email": "bglencorse1@craigslist.org",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Ronna",
+        "last_name": "Van Oord",
+        "email": "rvanoord2@twitter.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Valdemar",
+        "last_name": "Housegoe",
+        "email": "vhousegoe3@github.io",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Khalil",
+        "last_name": "Strapp",
+        "email": "kstrapp4@ezinearticles.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Jobie",
+        "last_name": "Pitrollo",
+        "email": "jpitrollo5@earthlink.net",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Clint",
+        "last_name": "Ashbey",
+        "email": "cashbey6@usatoday.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Dougy",
+        "last_name": "Halsall",
+        "email": "dhalsall7@google.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Daffie",
+        "last_name": "Partener",
+        "email": "dpartener8@surveymonkey.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Phedra",
+        "last_name": "Earley",
+        "email": "pearley9@home.pl",
+        "gender": "Female"
+    }
+]
